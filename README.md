@@ -9,4 +9,4 @@ This project in collaboration with Subash Neupane, (Claflin University Seed awar
 
 https://www.claflin-computation.com/_files/ugd/81dd80_e12daf8e87c348c5a9347af693993739.pdf
 
-Felicia Forrester: https://www.linkedin.com/in/feliciaforrester, Amrinder Singh: https://www.linkedin.com/in/amrinder-singh-b74426251
+Felicia Forrester: https://www.linkedin.com/in/feliciaforrester, Amrinder Singh: https://www.linkedin.com/in/amrinder-singh-b74426251, Machine Learning applications in computer aided diagnosis (CAD).
