@@ -1,4 +1,4 @@
-[# Summer-Undergraduate-Research-Internship-2024](https://pawar1550.wixsite.com/claflin-courses/copy-of-biomedical-biomaterials-inter-1) (2 students) [R: edgeR, hgu133plus2.db, tidyverse, Affy] 
+[# Summer-Undergraduate-Research-Internship-2024](https://pawar1550.wixsite.com/claflin-courses/copy-of-biomedical-biomaterials-inter-1) (4 students) [R: edgeR, hgu133plus2.db, tidyverse, Affy] 
 This project in collaboration with https://github.com/spawar2/Hemorhage-Detection-CT-Scan 
 
 https://github.com/CoolSubash
