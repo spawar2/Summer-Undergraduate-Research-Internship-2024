@@ -12,3 +12,5 @@ https://www.claflin-computation.com/_files/ugd/81dd80_e12daf8e87c348c5a9347af693
 Felicia Forrester: https://www.linkedin.com/in/feliciaforrester, Amrinder Singh: https://www.linkedin.com/in/amrinder-singh-b74426251, Machine Learning applications in computer aided diagnosis (CAD).
 
 Ian adams: https://www.linkedin.com/in/ian-adams-b54a21239 
+
+https://www.linkedin.com/in/amir-el-9351b42b7, Mr. Amir El, Undergraduate student: Fayetteville state university, North Carolina, USA. (Summer 2024). https://github.com/justamir7
