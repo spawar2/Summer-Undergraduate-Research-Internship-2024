@@ -14,3 +14,6 @@ Felicia Forrester: https://www.linkedin.com/in/feliciaforrester, Amrinder Singh:
 Ian adams: https://www.linkedin.com/in/ian-adams-b54a21239 
 
 https://www.linkedin.com/in/amir-el-9351b42b7, Mr. Amir El, Undergraduate student: Fayetteville state university, North Carolina, USA. (Summer 2024). https://github.com/justamir7
+
+Bimal Itani, Undergraduate student: Claflin University, South Carolina, USA. (Summer 2024). Machine Learning applications in computer aided diagnosis (CAD).
+https://www.linkedin.com/in/bimal-itani-599465254
