@@ -5,7 +5,7 @@ https://github.com/CoolSubash
 
 https://np.linkedin.com/in/subash-neupane-aa07ba228?trk=public_profile_browsemap
 
-This project in collaboration with Subash Neupane, (Claflin University Seed award funded project) Undergraduate student: Claflin University, South Carolina, USA. (Fall 2023). Utilization of Machine Learning Techniques for Aiding Detection of Ischemic Stroke Lesion, Infarct Volumes, and Small-artery Occlusion
+This project in collaboration with Subash Neupane, (Claflin University Seed award funded project) Undergraduate student: Claflin University, South Carolina, USA. (Fall 2023). Utilization of Machine Learning Techniques for Aiding Detection of Ischemic Stroke Lesion, Infarct Volumes, and Small-artery Occlusion, Brain tumor, stroke, and cervical fractures.
 
 https://www.claflin-computation.com/_files/ugd/81dd80_e12daf8e87c348c5a9347af693993739.pdf
 
@@ -17,3 +17,7 @@ https://www.linkedin.com/in/amir-el-9351b42b7, Mr. Amir El, Undergraduate studen
 
 Bimal Itani, Undergraduate student: Claflin University, South Carolina, USA. (Summer 2024). Machine Learning applications in computer aided diagnosis (CAD).
 https://www.linkedin.com/in/bimal-itani-599465254
+https://github.com/FelForr
+https://github.com/AmrinderGlLL
+https://github.com/bimalitani100
+https://github.com/IanAAdams
