@@ -2,7 +2,7 @@
 This project in collaboration with https://github.com/spawar2/Hemorhage-Detection-CT-Scan 
 
 https://github.com/CoolSubash
-https://www.claflin.edu/
+https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA
 https://np.linkedin.com/in/subash-neupane-aa07ba228?trk=public_profile_browsemap
 
 This project in collaboration with **Subash Neupane, (Claflin University Seed award funded project) Undergraduate student: Undergraduate student: Claflin University, Orangeburg, South Carolina, USA, South Carolina, USA. (Fall 2023). Utilization of Machine Learning Techniques for Aiding Detection of Ischemic Stroke Lesion, Infarct Volumes, and Small-artery Occlusion, Brain tumor, stroke, and cervical fractures.
