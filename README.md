@@ -15,7 +15,7 @@ https://www.claflin-computation.com/_files/ugd/81dd80_e12daf8e87c348c5a9347af693
 
 https://www.linkedin.com/in/amir-el-9351b42b7, Mr. Amir El, Undergraduate student: Fayetteville state university, North Carolina, USA. (Summer 2024). https://github.com/justamir7
 
-**Bimal Itani, Undergraduate student: Claflin University, Orangeburg, South Carolina, USA, South Carolina, USA (Summer 2024). Machine Learning applications in computer aided diagnosis (CAD).
+**Bimal Itani, Undergraduate student: Claflin University, Orangeburg, South Carolina, USA, South Carolina, USA. (Summer 2024). Machine Learning applications in computer aided diagnosis (CAD).
 https://www.linkedin.com/in/bimal-itani-599465254
 https://github.com/FelForr
 https://github.com/AmrinderGlLL
