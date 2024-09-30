@@ -23,3 +23,6 @@ https://github.com/bimalitani100
 https://github.com/IanAAdams
 
 2024 Claflin University, School of Natural Sciences and Mathematics,  Undergraduate Research Presentations, Orangeburg, South Carolina, USA,  Machine learning applications in computer aided diagnosis (CAD) hemorrhage, brain tumor, stroke, and cervical fractures, Amrinder Singh Ian Adams Bimal Itani Jy-Nese Spivey https://www.claflin.edu/
+
+Programming language: + Python.
+π: Classes taught: CSCI/HNTH391/392 (https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-1).
