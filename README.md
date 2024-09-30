@@ -5,17 +5,17 @@ https://github.com/CoolSubash
 https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA.
 https://np.linkedin.com/in/subash-neupane-aa07ba228?trk=public_profile_browsemap
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
-This project in collaboration with **Subash Neupane, (Claflin University Seed award funded project) Undergraduate student: Undergraduate student: Claflin University, Orangeburg, South Carolina, USA, South Carolina, USA. (Fall 2023). Utilization of Machine Learning Techniques for Aiding Detection of Ischemic Stroke Lesion, Infarct Volumes, and Small-artery Occlusion, Brain tumor, stroke, and cervical fractures.
+This project in collaboration with **Subash Neupane+π, (Claflin University Seed award funded project) Undergraduate student: Undergraduate student: Claflin University, Orangeburg, South Carolina, USA, South Carolina, USA. (Fall 2023). Utilization of Machine Learning Techniques for Aiding Detection of Ischemic Stroke Lesion, Infarct Volumes, and Small-artery Occlusion, Brain tumor, stroke, and cervical fractures.
 
 https://www.claflin-computation.com/_files/ugd/81dd80_e12daf8e87c348c5a9347af693993739.pdf
 
-**Jy'nese Spivey https://www.linkedin.com/in/jy%E2%80%99nese-spivey-942285259, **Amrinder Singh: https://www.linkedin.com/in/amrinder-singh-b74426251, Machine Learning applications in computer aided diagnosis (CAD). https://github.com/jybvby
+**Jy'nese Spivey+π https://www.linkedin.com/in/jy%E2%80%99nese-spivey-942285259, **Amrinder Singh: https://www.linkedin.com/in/amrinder-singh-b74426251, Machine Learning applications in computer aided diagnosis (CAD). https://github.com/jybvby
 
-**Ian adams: https://www.linkedin.com/in/ian-adams-b54a21239 
+**Ian adams+π: https://www.linkedin.com/in/ian-adams-b54a21239 
 
-https://www.linkedin.com/in/amir-el-9351b42b7, Mr. Amir El, Undergraduate student: Fayetteville state university, North Carolina, USA. (Summer 2024). https://github.com/justamir7
+https://www.linkedin.com/in/amir-el-9351b42b7, Mr. Amir El+π, Undergraduate student: Fayetteville state university, North Carolina, USA. (Summer 2024). https://github.com/justamir7
 
-**Bimal Itani, Undergraduate student: Claflin University, Orangeburg, South Carolina, USA, South Carolina, USA. (Summer 2024). Machine Learning applications in computer aided diagnosis (CAD).
+**Bimal Itani+π, Undergraduate student: Claflin University, Orangeburg, South Carolina, USA, South Carolina, USA. (Summer 2024). Machine Learning applications in computer aided diagnosis (CAD).
 https://www.linkedin.com/in/bimal-itani-599465254
 https://github.com/FelForr
 https://github.com/AmrinderGlLL
