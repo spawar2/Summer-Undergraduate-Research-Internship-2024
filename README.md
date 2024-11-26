@@ -5,7 +5,7 @@ https://github.com/CoolSubash
 https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, United States of America (USA).
 https://np.linkedin.com/in/subash-neupane-aa07ba228?trk=public_profile_browsemap
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
-This project in collaboration with **Subash Neupane+π, (Claflin University Seed award funded project) Undergraduate student: Undergraduate student: Claflin University, Orangeburg, South Carolina, USA, South Carolina, USA. (Fall 2023). Utilization of Machine Learning Techniques for Aiding Detection of Ischemic Stroke Lesion, Infarct Volumes, and Small-artery Occlusion, Brain tumor, stroke, and cervical fractures.
+This project in collaboration with **Subash Neupane+π (Thesis Advisor), (Claflin University Seed award funded project) Undergraduate student: Undergraduate student: Claflin University, Orangeburg, South Carolina, USA, South Carolina, USA. (Fall 2023). Utilization of Machine Learning Techniques for Aiding Detection of Ischemic Stroke Lesion, Infarct Volumes, and Small-artery Occlusion, Brain tumor, stroke, and cervical fractures.
 
 https://www.claflin-computation.com/_files/ugd/81dd80_e12daf8e87c348c5a9347af693993739.pdf
 
@@ -22,7 +22,7 @@ https://github.com/AmrinderGlLL
 https://github.com/bimalitani100
 https://github.com/IanAAdams
 
-2024 Claflin University, School of Natural Sciences and Mathematics,  Undergraduate Research Presentations, Orangeburg, South Carolina, USA,  Machine learning applications in computer aided diagnosis (CAD) hemorrhage, brain tumor, stroke, and cervical fractures, Amrinder Singh Ian Adams Bimal Itani Jy-Nese Spivey https://www.claflin.edu/
+2024 Claflin University, School of Natural Sciences and Mathematics,  Undergraduate Research Presentations, Orangeburg, South Carolina, USA,  Machine learning applications in computer aided diagnosis (CAD) hemorrhage, brain tumor, stroke, and cervical fractures, Amrinder Singh (Thesis Advisor), Ian Adams, Bimal Itani, Jy-Nese Spivey, https://www.claflin.edu/
 
 Programming language: + Python.
 π: Classes taught: CSCI/HNTH391/392 (https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-1).
