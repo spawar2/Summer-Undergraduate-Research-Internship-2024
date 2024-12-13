@@ -6,6 +6,7 @@ https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, United 
 https://np.linkedin.com/in/subash-neupane-aa07ba228?trk=public_profile_browsemap
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 This project in collaboration with **Subash Neupane+π (Thesis Advisor), (Claflin University Seed award funded project) Undergraduate student: Undergraduate student: Claflin University, Orangeburg, South Carolina, USA, South Carolina, USA. (Fall 2023). Utilization of Machine Learning Techniques for Aiding Detection of Ischemic Stroke Lesion, Infarct Volumes, and Small-artery Occlusion, Brain tumor, stroke, and cervical fractures.
+![download](https://github.com/user-attachments/assets/8c4b0f57-6f80-464a-96cf-f2a36afbd798)
 
 https://www.claflin-computation.com/_files/ugd/81dd80_e12daf8e87c348c5a9347af693993739.pdf
 
